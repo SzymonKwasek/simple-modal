@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../App.css';
+import './ModalContent.css';
 
 import Input from './Input'
 import Button from './Button'
